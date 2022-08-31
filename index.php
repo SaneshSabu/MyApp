@@ -3,7 +3,7 @@
 
 <body>
         <!-- Heading -->
-        <h3> My App Version - 3 </h3>
+        <h3> My App Version - 1 </h3>
 
         <!-- HTML form -->
         <form method="POST">
